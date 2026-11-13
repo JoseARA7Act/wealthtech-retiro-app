@@ -1,0 +1,22 @@
+# Secretos
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Datos y fuentes
+data/
+*.pdf
+*.csv
+*.parquet
+
+# Sistema
+.DS_Store
+Thumbs.db
