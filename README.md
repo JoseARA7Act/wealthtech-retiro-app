@@ -21,12 +21,12 @@ ahorro tiene una bolsa de emergencia y una de retiro, y se invierte según la ed
 | [`METRICAS.md`](METRICAS.md) | qué medir desde el primer día |
 | [`ARQUITECTURA.md`](ARQUITECTURA.md) | una propuesta de componentes, sin verificar |
 | [`CONOCIMIENTO.md`](CONOCIMIENTO.md) | lo que dice cada fuente leída, útil para diseñar |
+| [`investigacion/`](investigacion/) | copia de la investigación: `RESUMEN.md`, `EVIDENCIA.md`, `FUENTES.md`, `PILOTO_AB.md` y `PRODUCTO.md`, tal como están en `wealthtech-retiro` al 2026-11-13 |
 
 ## Cómo marcamos lo que sabemos
 
 - **Con fuente y página:** viene de una fuente leída; la referencia completa está en
-  [`FUENTES.md`](https://github.com/JoseARA7Act/wealthtech-retiro/blob/main/FUENTES.md) del
-  repositorio de investigación.
+  [`investigacion/FUENTES.md`](investigacion/FUENTES.md).
 - ***Conocimiento general, sin verificar*:** viene del conocimiento general del asistente, no de
   una fuente leída. Sirve para orientar, no para decidir; antes de construir sobre ello, hay que
   confirmarlo.

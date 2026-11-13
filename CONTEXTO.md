@@ -24,7 +24,7 @@
 ## La idea, en palabras de José
 
 La versión completa está en
-[`PRODUCTO.md`](https://github.com/JoseARA7Act/wealthtech-retiro/blob/main/PRODUCTO.md). En
+[`PRODUCTO.md`](investigacion/PRODUCTO.md). En
 resumen: un producto de ahorro voluntario con micro aportes para migrantes; remesas en stablecoins;
 una parte de cada envío al fondo de retiro; un empujón para aportar más, con la proyección de
 cuánto tendría; retiros por imprevistos; el ahorro en dólares; opciones de inversión según la edad;

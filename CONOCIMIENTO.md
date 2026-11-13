@@ -2,9 +2,9 @@
 
 Lo que dicen las fuentes leídas, resumido para quien construye el producto. Cada punto lleva su
 fuente y la página del PDF; la referencia completa está en
-[`FUENTES.md`](https://github.com/JoseARA7Act/wealthtech-retiro/blob/main/FUENTES.md) y el detalle
+[`FUENTES.md`](investigacion/FUENTES.md) y el detalle
 con más cifras en
-[`EVIDENCIA.md`](https://github.com/JoseARA7Act/wealthtech-retiro/blob/main/EVIDENCIA.md). Al final,
+[`EVIDENCIA.md`](investigacion/EVIDENCIA.md). Al final,
 lo que viene del conocimiento general, marcado como tal.
 
 ## Las ideas que más pesan en el diseño

@@ -1,7 +1,7 @@
 # Métricas
 
 Lo que la app debe registrar desde el primer día, para el piloto A/B descrito en
-[`PILOTO_AB.md`](https://github.com/JoseARA7Act/wealthtech-retiro/blob/main/PILOTO_AB.md). Medir el
+[`PILOTO_AB.md`](investigacion/PILOTO_AB.md). Medir el
 aporte, no el registro: M-Akiba tuvo 303,534 registros y solo el 4 % compró (UNCDF, pp. 20–21).
 
 | Métrica | Definición | Por qué |
